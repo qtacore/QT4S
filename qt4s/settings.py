@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+'''QT4S配置文件
+'''
+
+QT4S_ENABLE_NETMONITOR = False
+
+QT4S_ENABLE_PROXY = True
+
+QT4S_DOMAIN_RESOLVERS = []
+
+QT4S_NETWORK_AREA_DETECTORS = []
+
+QT4S_NETWORK_RULES = []
+

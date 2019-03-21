@@ -1,0 +1,10 @@
+module DemoJce
+{
+    struct DemoJce
+    {
+        0 optional long id;
+        1 optional string name;
+        2 optional vector<long> array;
+        3 optional map<string, long> mapping;
+    };
+};
